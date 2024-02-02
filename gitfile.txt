@@ -1,1 +1,5 @@
 Ananth
+
+day 1
+
+Revise overall git and git hub
